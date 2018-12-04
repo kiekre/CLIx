@@ -1,0 +1,6 @@
+[submodule "unplatform_v2"]
+	path = unplatform_v2
+	url = https://github.com/CLIxIndia-Dev/unplatform_v2.git
+[submodule "content_player"]
+	path = content_player
+	url = https://github.com/CLIxIndia-Dev/content_player.git
